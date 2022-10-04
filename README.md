@@ -2,6 +2,8 @@
 
 I made this to help me learn to read/speak french. Also to play with transformers from HuggingFace ^_^
 
+#note: Unfortunately does not run on HuggingFace space as they do not have espeak installed.
+
 Python script that creates an interactable Gradio demo of a translator.
 
 ![image](https://user-images.githubusercontent.com/57018666/193949131-ad35858e-7e4e-4b45-b94c-07087422f696.png)
