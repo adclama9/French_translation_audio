@@ -1,4 +1,4 @@
-# French_translation_audio
+# English to French translation + audio
 
 I made this to help me learn to read/speak french. Also to play with transformers from HuggingFace ^_^
 
