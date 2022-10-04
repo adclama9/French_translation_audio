@@ -4,6 +4,8 @@ I made this to help me learn to read/speak french. Also to play with transformer
 
 Python script that creates an interactable Gradio demo of a translator.
 
+![image](https://user-images.githubusercontent.com/57018666/193949063-4f76eb80-1478-4ac4-817d-f1a04690a4f3.png)
+
 It takes an english audio input from the user's mic and returns 3 outputs.
 
 1. Transcribed English text
@@ -22,11 +24,12 @@ Strong tts tailored to french, making it perform well.
 
 
 ## Dependencies you have to install to run this
--requirements.txt
--ffmpeg
--e-speak & espean-ng
-instructions
-vvvvvvvv
+
+-requirements.txt\
+-ffmpeg\
+-e-speak & espean-ng\
+instructions\
+vvvvvvvvvvvv
 
 1.Download and install the Windows version of espeak: http://espeak.sourceforge.net/download.html
 
